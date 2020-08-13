@@ -1,0 +1,554 @@
+[
+   {
+      "model":"tws.productlist",
+      "pk":"2 Person Blue Tweed Hamper",
+      "fields":{
+         "id":21,
+         "brand":"WILLOW STORE",
+         "price":"85.50",
+         "in_stock_quantity":2
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"50's Style Stand Mixer, Black",
+      "fields":{
+         "id":8,
+         "brand":"SMEG SMALL APPLIANCES",
+         "price":"449.99",
+         "in_stock_quantity":1
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"50's Style Stand Mixer, Full-Colour White",
+      "fields":{
+         "id":7,
+         "brand":"SMEG SMALL APPLIANCES",
+         "price":"449.00",
+         "in_stock_quantity":0
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"9-speed Hand Mixer; Almond Cream",
+      "fields":{
+         "id":5,
+         "brand":"KITCHENAID",
+         "price":"99.99",
+         "in_stock_quantity":9
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Cast Iron Oval Casserole - 25cm; Volcanic",
+      "fields":{
+         "id":2,
+         "brand":"Le Creuset",
+         "price":"127.00",
+         "in_stock_quantity":27
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Ceramic Bottle Lamp, Small",
+      "fields":{
+         "id":16,
+         "brand":"THE WHITE COMPANY",
+         "price":"95.00",
+         "in_stock_quantity":0
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Compact Charcoal Grill, 57 cm",
+      "fields":{
+         "id":12,
+         "brand":"WEBER GRILLS",
+         "price":"139.99",
+         "in_stock_quantity":29
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Falcon T2 Square Parasol, 2.7m, Taupe",
+      "fields":{
+         "id":13,
+         "brand":"GARDENSTORE",
+         "price":"344.99",
+         "in_stock_quantity":5
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Faux Tortoiseshell Lamp",
+      "fields":{
+         "id":20,
+         "brand":"OKA",
+         "price":"175.00",
+         "in_stock_quantity":0
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Glow Challenger T2 Square Parasol - 3m, Taupe",
+      "fields":{
+         "id":15,
+         "brand":"GARDENSTORE",
+         "price":"619.99",
+         "in_stock_quantity":30
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Gold Sitting Mouse Lamp",
+      "fields":{
+         "id":17,
+         "brand":"GRAHAM & GREEN",
+         "price":"73.00",
+         "in_stock_quantity":3
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Gordon Ramsay Maze 12 Piece Set, White",
+      "fields":{
+         "id":4,
+         "brand":"ROYAL DOULTON",
+         "price":"85.00",
+         "in_stock_quantity":2
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Mini Stand Mixer; Empire Red",
+      "fields":{
+         "id":6,
+         "brand":"KITCHENAID",
+         "price":"399.00",
+         "in_stock_quantity":2
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Original Kettle E-5710 Charcoal Barbecue - 57cm; Black",
+      "fields":{
+         "id":11,
+         "brand":"WEBER GRILLS",
+         "price":"199.99",
+         "in_stock_quantity":1
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Paignton Bedding Set, King, White",
+      "fields":{
+         "id":10,
+         "brand":"BEAU LIVING",
+         "price":"105.00",
+         "in_stock_quantity":0
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Polka Bedding Set, King, Silver",
+      "fields":{
+         "id":9,
+         "brand":"BEAU LIVING",
+         "price":"105.00",
+         "in_stock_quantity":5
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Riva Round Parasol - 3m; Anthracite",
+      "fields":{
+         "id":14,
+         "brand":"GARDENSTORE",
+         "price":"79.99",
+         "in_stock_quantity":8
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Sea Green Honeycomb Glass Lamp",
+      "fields":{
+         "id":19,
+         "brand":"GRAHAM & GREEN",
+         "price":"95.00",
+         "in_stock_quantity":4
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Tea pot",
+      "fields":{
+         "id":1,
+         "brand":"Le Creuset",
+         "price":"47.00",
+         "in_stock_quantity":50
+      }
+   },
+   {
+      "model":"tws.productlist",
+      "pk":"Usha Mango Wood Lamp Base",
+      "fields":{
+         "id":18,
+         "brand":"NKUKU",
+         "price":"49.95",
+         "in_stock_quantity":12
+      }
+   },
+   {
+      "model":"contenttypes.contenttype",
+      "pk":1,
+      "fields":{
+         "app_label":"tws",
+         "model":"productlist"
+      }
+   },
+   {
+      "model":"contenttypes.contenttype",
+      "pk":2,
+      "fields":{
+         "app_label":"tws",
+         "model":"giftlist"
+      }
+   },
+   {
+      "model":"contenttypes.contenttype",
+      "pk":3,
+      "fields":{
+         "app_label":"admin",
+         "model":"logentry"
+      }
+   },
+   {
+      "model":"contenttypes.contenttype",
+      "pk":4,
+      "fields":{
+         "app_label":"auth",
+         "model":"permission"
+      }
+   },
+   {
+      "model":"contenttypes.contenttype",
+      "pk":5,
+      "fields":{
+         "app_label":"auth",
+         "model":"group"
+      }
+   },
+   {
+      "model":"contenttypes.contenttype",
+      "pk":6,
+      "fields":{
+         "app_label":"auth",
+         "model":"user"
+      }
+   },
+   {
+      "model":"contenttypes.contenttype",
+      "pk":7,
+      "fields":{
+         "app_label":"contenttypes",
+         "model":"contenttype"
+      }
+   },
+   {
+      "model":"contenttypes.contenttype",
+      "pk":8,
+      "fields":{
+         "app_label":"sessions",
+         "model":"session"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":1,
+      "fields":{
+         "name":"Can add product list",
+         "content_type":1,
+         "codename":"add_productlist"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":2,
+      "fields":{
+         "name":"Can change product list",
+         "content_type":1,
+         "codename":"change_productlist"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":3,
+      "fields":{
+         "name":"Can delete product list",
+         "content_type":1,
+         "codename":"delete_productlist"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":4,
+      "fields":{
+         "name":"Can view product list",
+         "content_type":1,
+         "codename":"view_productlist"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":5,
+      "fields":{
+         "name":"Can add gift list",
+         "content_type":2,
+         "codename":"add_giftlist"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":6,
+      "fields":{
+         "name":"Can change gift list",
+         "content_type":2,
+         "codename":"change_giftlist"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":7,
+      "fields":{
+         "name":"Can delete gift list",
+         "content_type":2,
+         "codename":"delete_giftlist"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":8,
+      "fields":{
+         "name":"Can view gift list",
+         "content_type":2,
+         "codename":"view_giftlist"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":9,
+      "fields":{
+         "name":"Can add log entry",
+         "content_type":3,
+         "codename":"add_logentry"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":10,
+      "fields":{
+         "name":"Can change log entry",
+         "content_type":3,
+         "codename":"change_logentry"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":11,
+      "fields":{
+         "name":"Can delete log entry",
+         "content_type":3,
+         "codename":"delete_logentry"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":12,
+      "fields":{
+         "name":"Can view log entry",
+         "content_type":3,
+         "codename":"view_logentry"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":13,
+      "fields":{
+         "name":"Can add permission",
+         "content_type":4,
+         "codename":"add_permission"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":14,
+      "fields":{
+         "name":"Can change permission",
+         "content_type":4,
+         "codename":"change_permission"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":15,
+      "fields":{
+         "name":"Can delete permission",
+         "content_type":4,
+         "codename":"delete_permission"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":16,
+      "fields":{
+         "name":"Can view permission",
+         "content_type":4,
+         "codename":"view_permission"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":17,
+      "fields":{
+         "name":"Can add group",
+         "content_type":5,
+         "codename":"add_group"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":18,
+      "fields":{
+         "name":"Can change group",
+         "content_type":5,
+         "codename":"change_group"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":19,
+      "fields":{
+         "name":"Can delete group",
+         "content_type":5,
+         "codename":"delete_group"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":20,
+      "fields":{
+         "name":"Can view group",
+         "content_type":5,
+         "codename":"view_group"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":21,
+      "fields":{
+         "name":"Can add user",
+         "content_type":6,
+         "codename":"add_user"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":22,
+      "fields":{
+         "name":"Can change user",
+         "content_type":6,
+         "codename":"change_user"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":23,
+      "fields":{
+         "name":"Can delete user",
+         "content_type":6,
+         "codename":"delete_user"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":24,
+      "fields":{
+         "name":"Can view user",
+         "content_type":6,
+         "codename":"view_user"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":25,
+      "fields":{
+         "name":"Can add content type",
+         "content_type":7,
+         "codename":"add_contenttype"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":26,
+      "fields":{
+         "name":"Can change content type",
+         "content_type":7,
+         "codename":"change_contenttype"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":27,
+      "fields":{
+         "name":"Can delete content type",
+         "content_type":7,
+         "codename":"delete_contenttype"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":28,
+      "fields":{
+         "name":"Can view content type",
+         "content_type":7,
+         "codename":"view_contenttype"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":29,
+      "fields":{
+         "name":"Can add session",
+         "content_type":8,
+         "codename":"add_session"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":30,
+      "fields":{
+         "name":"Can change session",
+         "content_type":8,
+         "codename":"change_session"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":31,
+      "fields":{
+         "name":"Can delete session",
+         "content_type":8,
+         "codename":"delete_session"
+      }
+   },
+   {
+      "model":"auth.permission",
+      "pk":32,
+      "fields":{
+         "name":"Can view session",
+         "content_type":8,
+         "codename":"view_session"
+      }
+   }
+]

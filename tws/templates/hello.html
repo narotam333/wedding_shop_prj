@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h1 style="color:Orange;">The Wedding Shop</h1>
+
+<button onClick="location.href='{% url 'ProductListView' %}'">Product List</button>
+
+<button onClick="location.href='{% url 'GiftListView' %}'">Gift List</button> 
+
+<button onClick="location.href='{% url 'Report' %}'">Report</button>
+
+<hr>
+
+
+{% if data is not null %}
+
+{{data}}
+
+{% endif %}
+
+
+</body>
+
+</html>

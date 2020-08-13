@@ -1,0 +1,5 @@
+venv/
+.idea/
+The_Wedding_Shop/__pycache__/
+tws/__pycache__/
+tws/migrations/
