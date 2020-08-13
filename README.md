@@ -45,8 +45,9 @@ Docker
 
 Steps:
 1. In the project root directory, execute : docker-compose up -d --build
-2. To stop the application, execute : docker-compose down -v
-3. To check logs, execute : docker-compose logs -f
+2. To access application, use "http://localhost:8000/api"
+3. To stop the application, execute : docker-compose down -v
+4. To check logs, execute : docker-compose logs -f
 
 
 Improvements (which could have been done with more time):
