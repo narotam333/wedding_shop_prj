@@ -10,26 +10,26 @@ On the home page, user will have 3 buttons.
 1. Product List - This will list all the products from the wedding shop. User will be able to perform below
                   actions on the list.
 
-    a. Add a new product using POST button
-    b. Update an existing product using PUT button
-    c. Filter products based on different fields
-    4. Order products based on different fields
+    a. Add a new product using POST button <br></br>
+    b. Update an existing product using PUT button <br></br>
+    c. Filter products based on different fields <br></br>
+    d. Order products based on different fields <br></br>
 
 2. Gift List - This will list all the gifts which will be added by a user. There will also be an option to purchase a
                product as per the stock availability and show the number of purchased products as well as available
                products. User will be able to perform below actions on the list.
 
-    a. Add a new gift using POST button from the list of available products
-    b. Purchase an added product from the gift list based on "Available Quantity" using PUT button - This will automatically reduce the "availability quantity" as          per the "purchased quantity"
-    c. Change the number of purchased quantity (if required)
-    d. Delete a gift from the list (This is not working but code has been written for that)
-    d. Filter products based on different fields
-    e. Order products based on different fields
+    a. Add a new gift using POST button from the list of available products<br></br>
+    b. Purchase an added product from the gift list based on "Available Quantity" using PUT button - This will automatically reduce the "availability quantity" as          per the "purchased quantity"<br></br>
+    c. Change the number of purchased quantity (if required)<br></br>
+    d. Delete a gift from the list (This is not working but code has been written for that)<br></br>
+    d. Filter products based on different fields<br></br>
+    e. Order products based on different fields<br></br>
 
 3. Report - This will list all the gifts (purchased or not). User will be able to perform below actions on the list.
 
-    a. Filter products based on different fields
-    b. Order products based on different fields
+    a. Filter products based on different fields<br></br>
+    b. Order products based on different fields<br></br>
 
 
 Technical Stuff:
