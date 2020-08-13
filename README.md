@@ -20,7 +20,7 @@ On the home page, user will have 3 buttons.
                products. User will be able to perform below actions on the list.
 
     a. Add a new gift using POST button from the list of available products
-    b. Purchase an added product from the gift list based on "Available Quantity" using PUT button
+    b. Purchase an added product from the gift list based on "Available Quantity" using PUT button - This will automatically reduce the "availability quantity" as          per the "purchased quantity"
     c. Change the number of purchased quantity (if required)
     d. Delete a gift from the list (This is not working but code has been written for that)
     d. Filter products based on different fields
